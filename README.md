@@ -273,50 +273,5 @@ connection = manager.connect(
 )
 ```
 
----
 
-## 🎓 Educational Value
 
-This project demonstrates:
-- Real-world network automation
-- NETCONF/YANG protocol usage
-- Python programming for networking
-- Git branching and version control
-- Agile development methodology
-- Team collaboration and communication
-- Problem-solving and debugging
-- Technical documentation
-
----
-
-## 📞 Support & Questions
-
-For questions about this project, contact any team member:
-- **Technical Issues**: Jose Iturralde (Co-Developer)
-- **WebEx Integration**: Henrick Yurie Mendoza (Integration Lead)
-- **Testing Details**: Zac Halaman (QA Lead)
-- **Documentation**: Via Mae De Belen (Documentation Lead)
-- **Project Overview**: Richelle Grace Adarlo (Scrum Leader)
-
----
-
-## 🏆 Project Status
-
-**Status**: ✅ COMPLETE AND PRODUCTION-READY
-
-All requirements met, all tests passing, comprehensive documentation provided.
-
----
-
-## 📝 License & Usage
-
-This project was created for educational purposes as part of Project Activity 5.
-
-**Team**: DevNet & Chill
-**Date**: December 2025
-**Course**: Network Automation with NETCONF/YANG
-
----
-
-*"Automation rarely works perfectly on the first attempt, and troubleshooting is a normal part of the development process."*
-*- DevNet & Chill Team Reflection*
